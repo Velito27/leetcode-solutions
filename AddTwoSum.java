@@ -6,6 +6,7 @@ class ListNode {
     ListNode(int val) { this.val = val; }
 }
 
+//Change this to a solution to prevent the error; this is simply for testing purposes.
 class AddTwoSum {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
 
